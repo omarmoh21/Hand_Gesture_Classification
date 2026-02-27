@@ -133,7 +133,7 @@ pip install mediapipe xgboost scikit-learn scipy numpy pandas matplotlib seaborn
 
 ## 🎥 Demo Video
 
-> 📎 [Watch the output video on Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)
+> 📎 [Watch the output video on Google Drive](https://drive.google.com/file/d/1c8KNo0KvieURmXywPIvTgjWXIw82kWA0/view?usp=sharing)
 
 ---
 
